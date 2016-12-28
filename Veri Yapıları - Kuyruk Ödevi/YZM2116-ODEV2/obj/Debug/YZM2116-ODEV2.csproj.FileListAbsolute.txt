@@ -1,0 +1,30 @@
+c:\users\yakup\documents\visual studio 2013\Projects\YZM2116-ODEV2\YZM2116-ODEV2\bin\Debug\YZM2116-ODEV2.exe.config
+c:\users\yakup\documents\visual studio 2013\Projects\YZM2116-ODEV2\YZM2116-ODEV2\obj\Debug\YZM2116-ODEV2.csprojResolveAssemblyReference.cache
+c:\users\yakup\documents\visual studio 2013\Projects\YZM2116-ODEV2\YZM2116-ODEV2\obj\Debug\YZM2116_ODEV2.Form1.resources
+c:\users\yakup\documents\visual studio 2013\Projects\YZM2116-ODEV2\YZM2116-ODEV2\obj\Debug\YZM2116_ODEV2.Properties.Resources.resources
+c:\users\yakup\documents\visual studio 2013\Projects\YZM2116-ODEV2\YZM2116-ODEV2\obj\Debug\YZM2116-ODEV2.csproj.GenerateResource.Cache
+c:\users\yakup\documents\visual studio 2013\Projects\YZM2116-ODEV2\YZM2116-ODEV2\bin\Debug\YZM2116-ODEV2.exe
+c:\users\yakup\documents\visual studio 2013\Projects\YZM2116-ODEV2\YZM2116-ODEV2\bin\Debug\YZM2116-ODEV2.pdb
+c:\users\yakup\documents\visual studio 2013\Projects\YZM2116-ODEV2\YZM2116-ODEV2\obj\Debug\YZM2116-ODEV2.exe
+c:\users\yakup\documents\visual studio 2013\Projects\YZM2116-ODEV2\YZM2116-ODEV2\obj\Debug\YZM2116-ODEV2.pdb
+C:\Users\Yakup\Desktop\YZM2116-ODEV2\YZM2116-ODEV2\bin\Debug\YZM2116-ODEV2.exe.config
+C:\Users\Yakup\Desktop\YZM2116-ODEV2\YZM2116-ODEV2\obj\Debug\YZM2116-ODEV2.exe
+C:\Users\Yakup\Desktop\YZM2116-ODEV2\YZM2116-ODEV2\obj\Debug\YZM2116-ODEV2.pdb
+C:\Users\Yakup\Desktop\YZM2116-ODEV2\YZM2116-ODEV2\obj\Debug\YZM2116-ODEV2.csprojResolveAssemblyReference.cache
+C:\Users\Yakup\Desktop\YZM2116-ODEV2\YZM2116-ODEV2\obj\Debug\YZM2116_ODEV2.Form1.resources
+C:\Users\Yakup\Desktop\YZM2116-ODEV2\YZM2116-ODEV2\obj\Debug\YZM2116_ODEV2.Properties.Resources.resources
+C:\Users\Yakup\Desktop\YZM2116-ODEV2\YZM2116-ODEV2\obj\Debug\YZM2116-ODEV2.csproj.GenerateResource.Cache
+C:\Users\Yakup\Desktop\YZM2116-ODEV2\YZM2116-ODEV2\bin\Debug\YZM2116-ODEV2.exe
+C:\Users\Yakup\Desktop\YZM2116-ODEV2\YZM2116-ODEV2\bin\Debug\YZM2116-ODEV2.pdb
+D:\Sınıflar Arşiv 1-2-3\3.SINIF\Veri Yapıları - Kuyruk Ödevi\YZM2116-ODEV2\bin\Debug\YZM2116-ODEV2.exe.config
+D:\Sınıflar Arşiv 1-2-3\3.SINIF\Veri Yapıları - Kuyruk Ödevi\YZM2116-ODEV2\obj\Debug\YZM2116-ODEV2.exe
+D:\Sınıflar Arşiv 1-2-3\3.SINIF\Veri Yapıları - Kuyruk Ödevi\YZM2116-ODEV2\obj\Debug\YZM2116-ODEV2.pdb
+D:\Sınıflar Arşiv 1-2-3\3.SINIF\Veri Yapıları - Kuyruk Ödevi\YZM2116-ODEV2\obj\Debug\YZM2116-ODEV2.csprojResolveAssemblyReference.cache
+D:\Sınıflar Arşiv 1-2-3\3.SINIF\Veri Yapıları - Kuyruk Ödevi\YZM2116-ODEV2\obj\Debug\YZM2116_ODEV2.Form1.resources
+D:\Sınıflar Arşiv 1-2-3\3.SINIF\Veri Yapıları - Kuyruk Ödevi\YZM2116-ODEV2\obj\Debug\YZM2116_ODEV2.Properties.Resources.resources
+D:\Sınıflar Arşiv 1-2-3\3.SINIF\Veri Yapıları - Kuyruk Ödevi\YZM2116-ODEV2\obj\Debug\YZM2116-ODEV2.csproj.GenerateResource.Cache
+D:\Sınıflar Arşiv 1-2-3\3.SINIF\Veri Yapıları - Kuyruk Ödevi\YZM2116-ODEV2\bin\Debug\YZM2116-ODEV2.exe
+D:\Sınıflar Arşiv 1-2-3\3.SINIF\Veri Yapıları - Kuyruk Ödevi\YZM2116-ODEV2\bin\Debug\YZM2116-ODEV2.pdb
+C:\Users\yakup\Source\Workspaces\YazilimSinama\Veri Yapıları - Kuyruk Ödevi\YZM2116-ODEV2\bin\Debug\YZM2116-ODEV2.exe.config
+C:\Users\yakup\Source\Workspaces\YazilimSinama\Veri Yapıları - Kuyruk Ödevi\YZM2116-ODEV2\obj\Debug\YZM2116-ODEV2.exe
+C:\Users\yakup\Source\Workspaces\YazilimSinama\Veri Yapıları - Kuyruk Ödevi\YZM2116-ODEV2\obj\Debug\YZM2116-ODEV2.pdb
